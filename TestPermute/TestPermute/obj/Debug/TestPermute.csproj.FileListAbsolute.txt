@@ -1,0 +1,6 @@
+D:\TEST\TestPermute\TestPermute\bin\Debug\TestPermute.exe.config
+D:\TEST\TestPermute\TestPermute\bin\Debug\TestPermute.exe
+D:\TEST\TestPermute\TestPermute\bin\Debug\TestPermute.pdb
+D:\TEST\TestPermute\TestPermute\obj\Debug\TestPermute.csprojResolveAssemblyReference.cache
+D:\TEST\TestPermute\TestPermute\obj\Debug\TestPermute.exe
+D:\TEST\TestPermute\TestPermute\obj\Debug\TestPermute.pdb

@@ -1,0 +1,6 @@
+D:\TEST\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\TEST\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+D:\TEST\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\TEST\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+D:\TEST\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+D:\TEST\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

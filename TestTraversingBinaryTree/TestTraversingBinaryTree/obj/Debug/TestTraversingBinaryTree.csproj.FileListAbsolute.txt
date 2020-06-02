@@ -1,0 +1,6 @@
+D:\TEST\TestTraversingBinaryTree\TestTraversingBinaryTree\bin\Debug\TestTraversingBinaryTree.exe.config
+D:\TEST\TestTraversingBinaryTree\TestTraversingBinaryTree\obj\Debug\TestTraversingBinaryTree.csprojResolveAssemblyReference.cache
+D:\TEST\TestTraversingBinaryTree\TestTraversingBinaryTree\bin\Debug\TestTraversingBinaryTree.exe
+D:\TEST\TestTraversingBinaryTree\TestTraversingBinaryTree\bin\Debug\TestTraversingBinaryTree.pdb
+D:\TEST\TestTraversingBinaryTree\TestTraversingBinaryTree\obj\Debug\TestTraversingBinaryTree.exe
+D:\TEST\TestTraversingBinaryTree\TestTraversingBinaryTree\obj\Debug\TestTraversingBinaryTree.pdb

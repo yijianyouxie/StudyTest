@@ -1,0 +1,6 @@
+D:\TEST\TestListToArray\TestListToArray\TestListToArray\bin\Debug\TestListToArray.exe.config
+D:\TEST\TestListToArray\TestListToArray\TestListToArray\bin\Debug\TestListToArray.exe
+D:\TEST\TestListToArray\TestListToArray\TestListToArray\bin\Debug\TestListToArray.pdb
+D:\TEST\TestListToArray\TestListToArray\TestListToArray\obj\Debug\TestListToArray.csprojResolveAssemblyReference.cache
+D:\TEST\TestListToArray\TestListToArray\TestListToArray\obj\Debug\TestListToArray.exe
+D:\TEST\TestListToArray\TestListToArray\TestListToArray\obj\Debug\TestListToArray.pdb

@@ -1,0 +1,35 @@
+﻿  util.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\util.cpp(17): fatal error C1083: 无法打开包括文件: “flatbuffers/util.h”: No such file or directory
+  reflection.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\reflection.cpp(17): fatal error C1083: 无法打开包括文件: “flatbuffers/reflection.h”: No such file or directory
+  idl_parser.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\idl_parser.cpp(23): fatal error C1083: 无法打开包括文件: “flatbuffers/idl.h”: No such file or directory
+  idl_gen_text.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\idl_gen_text.cpp(19): fatal error C1083: 无法打开包括文件: “flatbuffers/flatbuffers.h”: No such file or directory
+  idl_gen_python.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\idl_gen_python.cpp(21): fatal error C1083: 无法打开包括文件: “flatbuffers/code_generators.h”: No such file or directory
+  idl_gen_php.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\idl_gen_php.cpp(21): fatal error C1083: 无法打开包括文件: “flatbuffers/code_generators.h”: No such file or directory
+  idl_gen_json_schema.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\idl_gen_json_schema.cpp(18): fatal error C1083: 无法打开包括文件: “flatbuffers/code_generators.h”: No such file or directory
+  idl_gen_js.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\idl_gen_js.cpp(22): fatal error C1083: 无法打开包括文件: “flatbuffers/code_generators.h”: No such file or directory
+  idl_gen_grpc.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\idl_gen_grpc.cpp(19): fatal error C1083: 无法打开包括文件: “flatbuffers/code_generators.h”: No such file or directory
+  idl_gen_go.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\idl_gen_go.cpp(22): fatal error C1083: 无法打开包括文件: “flatbuffers/code_generators.h”: No such file or directory
+  idl_gen_general.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\idl_gen_general.cpp(19): fatal error C1083: 无法打开包括文件: “flatbuffers/code_generators.h”: No such file or directory
+  idl_gen_fbs.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\idl_gen_fbs.cpp(19): fatal error C1083: 无法打开包括文件: “flatbuffers/code_generators.h”: No such file or directory
+  idl_gen_cpp.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\idl_gen_cpp.cpp(19): fatal error C1083: 无法打开包括文件: “flatbuffers/code_generators.h”: No such file or directory
+  flathash.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\flathash.cpp(21): fatal error C1083: 无法打开包括文件: “flatbuffers/hash.h”: No such file or directory
+  flatc_main.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\flatc_main.cpp(17): fatal error C1083: 无法打开包括文件: “flatbuffers/flatc.h”: No such file or directory
+  flatc.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\flatc.cpp(17): fatal error C1083: 无法打开包括文件: “flatbuffers/flatc.h”: No such file or directory
+  code_generators.cpp
+d:\flatbuffers-1.9.0\flatbuffers-1.9.0\src\code_generators.cpp(17): fatal error C1083: 无法打开包括文件: “flatbuffers/code_generators.h”: No such file or directory
+  正在生成代码...

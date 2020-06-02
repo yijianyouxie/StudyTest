@@ -1,0 +1,6 @@
+D:\TEST\8Huanghou\8Huanghou\bin\Debug\8Huanghou.exe.config
+D:\TEST\8Huanghou\8Huanghou\bin\Debug\8Huanghou.exe
+D:\TEST\8Huanghou\8Huanghou\bin\Debug\8Huanghou.pdb
+D:\TEST\8Huanghou\8Huanghou\obj\Debug\8Huanghou.csprojResolveAssemblyReference.cache
+D:\TEST\8Huanghou\8Huanghou\obj\Debug\8Huanghou.exe
+D:\TEST\8Huanghou\8Huanghou\obj\Debug\8Huanghou.pdb

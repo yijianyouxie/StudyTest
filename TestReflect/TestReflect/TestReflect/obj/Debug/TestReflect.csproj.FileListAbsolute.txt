@@ -1,0 +1,6 @@
+E:\TEST\TestReflect\TestReflect\TestReflect\bin\Debug\TestReflect.exe.config
+E:\TEST\TestReflect\TestReflect\TestReflect\bin\Debug\TestReflect.exe
+E:\TEST\TestReflect\TestReflect\TestReflect\bin\Debug\TestReflect.pdb
+E:\TEST\TestReflect\TestReflect\TestReflect\obj\Debug\TestReflect.csprojResolveAssemblyReference.cache
+E:\TEST\TestReflect\TestReflect\TestReflect\obj\Debug\TestReflect.exe
+E:\TEST\TestReflect\TestReflect\TestReflect\obj\Debug\TestReflect.pdb
