@@ -3,6 +3,8 @@
 
 #include "stdafx.h"
 #include <iostream>
+#include <csignal>
+#include <windows.h>
 using namespace std;
 
 void TestConstChar()
@@ -26,8 +28,74 @@ void TestConstChar()
 	cout << p2 << endl;
 }
 
+void TestPoint()
+{
+	double* p = NULL;//此时，p是空指针
+	//cout << p << "==" << &p << "==" << *p << "==" << &(*p) << endl;
+	p = new double(1);
+
+	cout << p << "==" << &p << "==" << *p << "==" << &(*p) << endl;
+}
+
+class A
+{
+public:
+	A()
+	{
+		cout << "A构造函数" << endl;
+	}
+	~A()
+	{
+		cout << "A析构函数" << endl;
+	}
+	void print()
+	{
+		cout << "a:" << a << "b:" << b << endl;
+	}
+private:
+	int a = 0;
+	int b = 0;
+};
+void TestNewMalloc()
+{
+	cout << "测试malloc" << endl;
+	A* a = (A*)malloc(sizeof(A));
+	a->print();
+	delete a;
+
+	cout << "测试new" << endl;
+	A* b = new A();
+	b->print();
+	delete b;
+}
+
+void SignalHandler(int sigNum)
+{
+	cout << "sigNum:" << sigNum << endl;
+
+	exit(sigNum);
+}
+void TestSignal()
+{
+	signal(SIGINT, SignalHandler);
+
+	int i = 0;
+	while (i >= 0)
+	{
+		cout << "Going to sleep..." << endl;
+		if (i == 3) {
+			raise(SIGINT);
+		}
+		i++;
+		Sleep(1000);
+	}
+}
+
 int main()
 {
-	TestConstChar();
+	//TestConstChar();
+	TestPoint();
+	//TestNewMalloc();
+	//TestSignal();
 	system("pause");
 }
